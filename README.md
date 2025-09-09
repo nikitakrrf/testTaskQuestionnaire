@@ -14,7 +14,7 @@ docker --version
 docker compose version
 
 Клонирование проекта
-git clone https://github.com/yourname/testTaskQuestionnaire.git
+git clone https://github.com/nikitakrrf/testTaskQuestionnaire.git
 cd testTaskQuestionnaire
 
 
